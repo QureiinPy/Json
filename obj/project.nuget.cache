@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KQ21WYlUBBnztI+G/vvpnU0vx7uFCMEULqKp8sBFV3oQzfIatXGsItXgWVA9Ai4OB6cBfGwwEy1pwCe+G+HptA==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio Programm\\WeatherJson\\WeatherJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

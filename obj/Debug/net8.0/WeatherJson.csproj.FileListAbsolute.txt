@@ -1,0 +1,17 @@
+E:\Visual Studio Programm\WeatherJson\bin\Debug\net8.0\WeatherJson.exe
+E:\Visual Studio Programm\WeatherJson\bin\Debug\net8.0\WeatherJson.deps.json
+E:\Visual Studio Programm\WeatherJson\bin\Debug\net8.0\WeatherJson.runtimeconfig.json
+E:\Visual Studio Programm\WeatherJson\bin\Debug\net8.0\WeatherJson.dll
+E:\Visual Studio Programm\WeatherJson\bin\Debug\net8.0\WeatherJson.pdb
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.AssemblyInfoInputs.cache
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.AssemblyInfo.cs
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.csproj.CoreCompileInputs.cache
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.dll
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\refint\WeatherJson.dll
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.pdb
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.genruntimeconfig.cache
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\ref\WeatherJson.dll
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.csproj.AssemblyReference.cache
+E:\Visual Studio Programm\WeatherJson\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Visual Studio Programm\WeatherJson\obj\Debug\net8.0\WeatherJson.csproj.CopyComplete
